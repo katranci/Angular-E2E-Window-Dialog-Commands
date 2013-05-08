@@ -1,3 +1,9 @@
+/**
+ * @license Angular-E2E-Window-Dialog-Commands (https://github.com/katranci/Angular-E2E-Window-Dialog-Commands)
+ * (c) 2013 Ahmet KATRANCI
+ * License: MIT
+ */
+
 'use strict';
 
 
