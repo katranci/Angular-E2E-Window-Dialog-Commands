@@ -25,8 +25,8 @@ Execute the relevant command in the `it` block where your application is using a
 Given that your application is greeting the user with their name just after they log in you can use the `alertOK` as:
 
     it('should log in with a valid name', function() {
+		alertOK();
         element(':submit').click();
-        alertOK();
         expect... // expect user to be signed in
     });
 
