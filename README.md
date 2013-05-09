@@ -5,8 +5,8 @@ Comprises four commands to interact with window.alert, window.confirm and window
 Commands
 --------
 * `alertOK()` sets `window.alert` to return `true` when it is called in your application
-* `confirmOK()` sets `window.confirm` to return true when it is called in your application
-* `confirmCancel()` sets `window.confirm` to return false when it is called in your application
+* `confirmOK()` sets `window.confirm` to return `true` when it is called in your application
+* `confirmCancel()` sets `window.confirm` to return `false` when it is called in your application
 * `setPromptValue(value)` sets `window.prompt` to return `value` when it is called in your application
 
 Installation
